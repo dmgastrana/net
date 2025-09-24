@@ -1,14 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Welcome to My Main Site</title>
+  <title>Equipment</title>
 </head>
 <body>
-  <h1>Main Equipment Hub</h1>
-  <p>Explore more:</p>
-  <ul>
-    <li><a href="equipment.html">View Equipment Listing</a></li>
-    <li><a href="https://dmgastrana.github.io/Information/" target="_blank">Go to Information Page</a></li>
-  </ul>
+  <a href="https://dmgastrana.github.io/Information/" target="_blank">Equipment</a>
 </body>
 </html>
